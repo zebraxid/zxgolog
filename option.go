@@ -3,7 +3,7 @@ package zxgolog
 import (
 	"io"
 
-	"zebrax.id/libs/zxgolog/logger"
+	"github.com/zebraxid/zxgolog/logger"
 )
 
 // FnOption for optional functions when create new logger

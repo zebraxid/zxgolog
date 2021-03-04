@@ -4,7 +4,7 @@ import (
 	"time"
 
 	lr "github.com/sirupsen/logrus"
-	"zebrax.id/libs/zxgolog/logger"
+	"github.com/zebraxid/zxgolog/logger"
 )
 
 type logrusObj struct {

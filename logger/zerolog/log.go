@@ -2,7 +2,7 @@ package zerolog
 
 import (
 	zl "github.com/rs/zerolog"
-	"zebrax.id/libs/zxgolog/logger"
+	"github.com/zebraxid/zxgolog/logger"
 )
 
 type zerologObj struct {

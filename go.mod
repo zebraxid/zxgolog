@@ -1,4 +1,4 @@
-module zebrax.id/libs/zxgolog
+module github.com/zebraxid/zxgolog
 
 go 1.13
 

@@ -1,7 +1,7 @@
 package builder
 
 import (
-	"zebrax.id/libs/zxgolog/logger"
+	"github.com/zebraxid/zxgolog/logger"
 )
 
 // LogBuilder for build logger instance

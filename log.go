@@ -4,8 +4,8 @@ import (
 	"sync"
 
 	"github.com/pkg/errors"
-	"zebrax.id/libs/zxgolog/builder"
-	"zebrax.id/libs/zxgolog/logger"
+	"github.com/zebraxid/zxgolog/builder"
+	"github.com/zebraxid/zxgolog/logger"
 )
 
 // LoggerType ...

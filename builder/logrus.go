@@ -1,8 +1,8 @@
 package builder
 
 import (
-	"zebrax.id/libs/zxgolog/logger"
-	"zebrax.id/libs/zxgolog/logger/logrus"
+	"github.com/zebraxid/zxgolog/logger"
+	"github.com/zebraxid/zxgolog/logger/logrus"
 )
 
 type logrusBuilder struct{}
