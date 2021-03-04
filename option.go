@@ -31,7 +31,7 @@ func LogType(typ string) FnOption {
 // LogLevel for lowest level should be logged, default is info
 func LogLevel(level string) FnOption {
 	return func(opt *option) {
-		if opt.loggerOpt == nil {
+		if opt.loggerOpt == nil || level == "" {
 			return
 		}
 
